@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+
+* {
+  font-family: 'Jost', sans-serif;
+}
+
+body {
+  background-image: url('https://images.unsplash.com/photo-1602517300834-9dc3336a714f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2xvdWRzJTIwYmx1ZSUyMHNreXxlbnwwfHwwfHw%3D&w=1000&q=80');
+}
+
+.main-box {
+  display: relative;
+}
+
+.box {
+  background-color: aqua;
+}
